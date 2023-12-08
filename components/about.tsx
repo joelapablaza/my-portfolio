@@ -21,14 +21,14 @@ export default function About() {
       <p className="mb-3">
         After graduating as a{' '}
         <span className="font-medium">Computer Systems Analyst</span>, I decided
-        to immerse myself in hardware, but gradually, I found myself falling
-        more in love with software. As a result, my journey as a developer
-        became a <span className="font-medium">self-discovery</span> over the
-        years.{' '}
+        to immerse myself in the hardware space, but gradually, I found myself
+        falling more in love with the software. As a result, my journey as a
+        developer became a <span className="font-medium">self-discovery</span>{' '}
+        over the years.{' '}
         <span className="italic">I evolved into a full-stack developer</span> to
         provide myself with end-to-end solutions. My{' '}
-        <span className="underline">personal</span>
-        development stack typically involves{' '}
+        <span className="underline"> personal</span> development stack typically
+        involves{' '}
         <span className="font-medium">
           React, Next.js, Node.js, and MongoDB
         </span>
@@ -47,7 +47,7 @@ export default function About() {
         the guitar and piano, watching movies and series, and above all,{' '}
         <span className="font-medium"> researching</span>—delving into whatever
         piques my curiosity. Currently, I&apos;m learning about the global{' '}
-        <span className="font-medium">economics and philosophy.</span>
+        <span className="font-medium">economics, philosophy and stoicism.</span>
       </p>
     </motion.section>
   );
