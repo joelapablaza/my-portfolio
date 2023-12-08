@@ -60,7 +60,7 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: 'CorpComment',
+    title: 'LearnIt',
     description:
       'It is a learning platform that features an administration panel (CMS) to manage content, analyze statistics and more. It also includes OTP verification via email.',
     tags: ['React', 'Next.js', 'MongoDB', 'Tailwind', 'Express'],
@@ -68,7 +68,7 @@ export const projectsData = [
     link: 'https://lms-client-theta.vercel.app/',
   },
   {
-    title: 'rmtDev',
+    title: 'Digital-Capi',
     description:
       'It is a digital store focused on the regional audience to promote local market competition. It has a Content Management System (CMS) leveraging "Payload CMS."',
     tags: ['React', 'TypeScript', 'Next.js', 'Tailwind', 'MongoDB'],
