@@ -36,7 +36,7 @@ export const experiencesData = [
     title: 'Computer Systems Analysts',
     location: 'Entre Ríos, Argentina',
     description:
-      'Computer Science Fundamental | Software Programming and Development, Systems Analysis, Databases, User Interface Design, among others.',
+      'Computer Science Fundamental, Software Programming and Development, Systems Analysis, Databases, User Interface Design, among others.',
     icon: React.createElement(LuGraduationCap),
     date: '2009 - 2013',
   },
@@ -62,7 +62,7 @@ export const projectsData = [
   {
     title: 'CorpComment',
     description:
-      'It is a learning platform that features an administration panel (CMS) to manage content from the "hero," the "FAQ" section, "categories," and more, all in a visual manner for an enhanced user experience and to analyze statistics. It also includes email verification via OTP.',
+      'It is a learning platform that features an administration panel (CMS) to manage content, analyze statistics and more. It also includes OTP verification via email.',
     tags: ['React', 'Next.js', 'MongoDB', 'Tailwind', 'Express'],
     imageUrl: lmsImg,
   },
