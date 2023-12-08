@@ -42,11 +42,11 @@ export default function About() {
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I'm enjoying time
-        with my children and wife, teaching my daughter to play the guitar and
-        piano, watching movies and series, and above all,{' '}
+        <span className="italic">When I&apos;m not coding</span>, I&apos;m
+        enjoying time with my children and wife, teaching my daughter to play
+        the guitar and piano, watching movies and series, and above all,{' '}
         <span className="font-medium"> researching</span>—delving into whatever
-        piques my curiosity. Currently, I'm learning about the global{' '}
+        piques my curiosity. Currently, I&apos;m learning about the global{' '}
         <span className="font-medium">economics and philosophy.</span>
       </p>
     </motion.section>

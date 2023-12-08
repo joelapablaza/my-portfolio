@@ -21,16 +21,16 @@ export default function Intro() {
       className="mb-28 max-w-[50rem] text-center sm:mb-0 scroll-mt-[100rem]"
     >
       <motion.h1
-        className="mb-10 mt-4 px-4 text-2xl font-medium !leading-[1.5] sm:text-4xl"
+        className="mb-20 mt-4 px-4 text-2xl font-medium !leading-[1.5] sm:text-4xl"
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello!, I'm Joel.</span> I'm a{' '}
+        <span className="font-bold">Hello!, I&apos;m Joel.</span> I&apos;m a{' '}
         <span className="font-bold">full-stack developer</span> with{' '}
         <span className="font-bold">+2 years</span> of experience. My preference
         for problem solving and creating automations makes me enjoy{' '}
         <span className="italic">any technology</span> that fits the problem or
-        project My focus is{' '}
+        project.
       </motion.h1>
 
       <motion.div

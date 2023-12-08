@@ -36,17 +36,9 @@ export const experiencesData = [
     title: 'Computer Systems Analysts',
     location: 'Entre Ríos, Argentina',
     description:
-      'Computer Science Fundamental | Software Programming and Development, Systems Analysis, Databases, User Interface Design, among others.',
+      'Computer Science Fundamental, Software Programming and Development, Systems Analysis, Databases, User Interface Design, among others.',
     icon: React.createElement(LuGraduationCap),
     date: '2009 - 2013',
-  },
-  {
-    title: 'Front-End Developer',
-    location: 'Orlando, FL',
-    description:
-      'I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.',
-    icon: React.createElement(CgWorkAlt),
-    date: '2019 - 2021',
   },
   {
     title: 'Development & IT Solutions',
@@ -56,13 +48,21 @@ export const experiencesData = [
     icon: React.createElement(FaReact),
     date: '2016 - 2020',
   },
+  {
+    title: 'Full-Stack Developer',
+    location: 'Entre Rios, Argentina',
+    description:
+      'I embarked on a personal initiative with the goal of providing internet access to the most underserved areas, during the COVID-19 (onlyne era).',
+    icon: React.createElement(CgWorkAlt),
+    date: '2021 - 2022',
+  },
 ] as const;
 
 export const projectsData = [
   {
     title: 'CorpComment',
     description:
-      'It is a learning platform that features an administration panel (CMS) to manage content from the "hero," the "FAQ" section, "categories," and more, all in a visual manner for an enhanced user experience and to analyze statistics. It also includes email verification via OTP.',
+      'It is a learning platform that features an administration panel (CMS) to manage content, analyze statistics and more. It also includes OTP verification via email.',
     tags: ['React', 'Next.js', 'MongoDB', 'Tailwind', 'Express'],
     imageUrl: lmsImg,
   },
