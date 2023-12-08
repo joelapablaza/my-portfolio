@@ -65,6 +65,7 @@ export const projectsData = [
       'It is a learning platform that features an administration panel (CMS) to manage content, analyze statistics and more. It also includes OTP verification via email.',
     tags: ['React', 'Next.js', 'MongoDB', 'Tailwind', 'Express'],
     imageUrl: lmsImg,
+    link: 'https://lms-client-theta.vercel.app/',
   },
   {
     title: 'rmtDev',
@@ -72,6 +73,7 @@ export const projectsData = [
       'It is a digital store focused on the regional audience to promote local market competition. It has a Content Management System (CMS) leveraging "Payload CMS."',
     tags: ['React', 'TypeScript', 'Next.js', 'Tailwind', 'MongoDB'],
     imageUrl: digitalCapiImg,
+    link: 'https://digital-capi.onrender.com/',
   },
 ] as const;
 
