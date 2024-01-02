@@ -52,7 +52,7 @@ export const experiencesData = [
     title: 'Full-Stack Developer',
     location: 'Entre Rios, Argentina',
     description:
-      'I embarked on a personal initiative with the goal of providing internet access to the most underserved areas, during the COVID-19 (onlyne era).',
+      'I embarked on a personal initiative with the goal of providing internet access to the most underserved areas, during the COVID-19 (online era).',
     icon: React.createElement(CgWorkAlt),
     date: '2021 - 2022',
   },
