@@ -54,7 +54,7 @@ export const experiencesData = [
     description:
       'I embarked on a personal initiative with the goal of providing internet access to the most underserved areas, during the COVID-19 (online era).',
     icon: React.createElement(CgWorkAlt),
-    date: '2021 - 2022',
+    date: '2020 - 2022',
   },
 ] as const;
 
@@ -71,27 +71,34 @@ export const projectsData = [
     title: 'Digital-Capi',
     description:
       'It is a digital store focused on the regional audience to promote local market competition. It has a Content Management System (CMS) leveraging "Payload CMS."',
-    tags: ['React', 'TypeScript', 'Next.js', 'Tailwind', 'MongoDB'],
+    tags: [
+      'React',
+      'TypeScript',
+      'Next.js',
+      ,
+      'TRPC',
+      'Express',
+      'Tailwind',
+      'MongoDB',
+    ],
     imageUrl: digitalCapiImg,
     link: 'https://digital-capi.onrender.com/',
   },
 ] as const;
 
 export const skillsData = [
-  'HTML',
-  'CSS',
   'JavaScript',
   'TypeScript',
-  'React',
-  'Next.js',
+  'Express',
   'Node.js',
   'Git',
+  'CI/CD',
+  'Jest',
+  'React',
+  'Next.js',
   'Tailwind',
-  'Prisma',
   'MongoDB',
   'Redux',
-  'Apollo',
-  'Express',
   'PostgreSQL',
   'Python',
   'Framer Motion',
