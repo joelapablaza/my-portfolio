@@ -46,7 +46,7 @@ export const experiencesData = [
     description:
       'Development and maintenance of the online store. Key responsibilities include Integrated Inventory Manager, modernization, and optimization of content CEO.',
     icon: React.createElement(FaReact),
-    date: '2016 - 2020',
+    date: '2016 - 2018',
   },
   {
     title: 'Full-Stack Developer',
@@ -54,7 +54,7 @@ export const experiencesData = [
     description:
       'I embarked on a personal initiative with the goal of providing internet access to the most underserved areas, during the COVID-19 (online era).',
     icon: React.createElement(CgWorkAlt),
-    date: '2020 - 2022',
+    date: '2019 - 2022',
   },
 ] as const;
 
