@@ -45,7 +45,7 @@ export const experiencesData = [
     location: 'Misiones, Argentina',
     description:
       'Development and maintenance of the online store. Key responsibilities include Integrated Inventory Manager, modernization, and optimization of content CEO.',
-    icon: React.createElement(FaReact),
+    icon: React.createElement(CgWorkAlt),
     date: '2016 - 2018',
   },
   {
@@ -55,6 +55,22 @@ export const experiencesData = [
       'I embarked on a personal initiative with the goal of providing internet access to the most underserved areas, during the COVID-19 (online era).',
     icon: React.createElement(CgWorkAlt),
     date: '2019 - 2022',
+  },
+  {
+    title: 'Senior Full-Stack Developer',
+    location: 'Entre Rios, Argentina (remote)',
+    description:
+      'Full Stack Developer freelancer with expertise in building scalable web applications and delivering top-notch user experiences.',
+    icon: React.createElement(CgWorkAlt),
+    date: '2022 - 2023',
+  },
+  {
+    title: 'Software Developer',
+    location: 'Entre Rios, Argentina (remote)',
+    description:
+      'Development of a user interface for LLM training and creation of backend linters for quality filtering.',
+    icon: React.createElement(CgWorkAlt),
+    date: '2023 - 2024',
   },
 ] as const;
 
